@@ -9,7 +9,7 @@ Welcome to my portfolio website! This site showcases my skills, projects, and ex
 
 ## About Me
 
-I am a passionate web developer with experience in creating dynamic and responsive websites. I enjoy solving complex problems and continuously learning new technologies.
+I am a passionate web developer learning to create webites. I enjoy solving complex problems and continuously learning new technologies.
 
 ## Skills
 
